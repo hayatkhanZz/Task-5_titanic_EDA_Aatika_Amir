@@ -22,11 +22,11 @@ Titanic dataset containing passenger information such as age, sex, fare, class, 
 4. Identified relationships and trends between variables
 5. Final summary of findings
 
- ## Files in Repository
- - Titanic_EDA.ipynb → Jupyter Notebook containing code and analysis
+## Files in Repository
+- Titanic_EDA.ipynb → Jupyter Notebook containing code and analysis
 - Titanic_EDA_Report.pdf → PDF report of findings with all visuals
 
-  ## **key Insight**
+## **key Insight**
 - Passenger class and fare were major factors affecting survival
 - Younger passengers had slightly higher survival chances
 - Heatmap and pairplot helped identify correlations and patterns 
