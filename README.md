@@ -14,7 +14,7 @@ The main objective is to extract insights about passenger survival using statist
 
 ## Dataset
 Titanic dataset containing passenger information such as age, sex, fare, class, and survival.
-### Dataset
+### Note
 The analysis uses the Titanic dataset loaded directly in Google Colab from Kaggle:
 - Source: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 
