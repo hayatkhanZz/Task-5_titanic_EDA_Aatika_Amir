@@ -27,6 +27,7 @@ The analysis uses the Titanic dataset loaded directly in Google Colab from Kaggl
 
 ## Files in Repository
 - Titanic_EDA.ipynb → Jupyter Notebook containing code and analysis
+  [Google Colab Notebook Link](https://colab.research.google.com/drive/1guvhI5Ktkyn-2bLIUeyca6Bb3uO2eNkE?usp=sharing)
 - Titanic_EDA_Report.pdf → PDF report of findings with all visuals
 
 ## **key Insight**
